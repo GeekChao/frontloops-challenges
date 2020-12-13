@@ -8,4 +8,4 @@ https://codesandbox.io/s/random-switches-dxg8u
 https://codesandbox.io/s/progress-navigation-r70r2
 
 ### Animated Text
-https://codesandbox.io/s/animated-text-n836d?file=/src/App.tsx
+https://codesandbox.io/s/animated-text-n836d
